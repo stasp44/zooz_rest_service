@@ -1,0 +1,7 @@
+---
+applications:
+- name: payment-rest-service
+  memory: 256M
+  instances: 1
+  host: payment-service
+  path: build/libs/payment-rest-service-0.1.0.jar
