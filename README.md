@@ -9,7 +9,8 @@ Service
     * createdDate - get the transaction that occur on the specific date(use UNIX timestamp)
     * customerId - get the transactions for specific user
     * limitTransactions - limit number of transactions(default value is 10)
-    *you can use several filters in the same request use ';' for delimiter
+
+     *you can use several filters in the same request use ';' for delimiter
 
 Configuration Files
 ==================
